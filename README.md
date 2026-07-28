@@ -37,6 +37,6 @@ This lab is intended as a learning and prototyping environment for:
 - Express for the HTTP server
 - SQLite for local task storage
 - Anthropic and related SDKs for agent integration
-- GCP Cloud Run for Serverless Deploymebt
+- GCP Cloud Run for Serverless Deployment
 - live link: https://mcp-server-996049909214.us-central1.run.app
 
